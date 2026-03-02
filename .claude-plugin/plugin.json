@@ -1,0 +1,9 @@
+{
+  "name": "memory-md",
+  "version": "0.1.0",
+  "description": "Gives AI agents experiential memory. Automatically tracks decisions, outcomes, and lessons learned in MEMORY.md so your agent gets wiser over time instead of starting from zero every conversation.",
+  "author": "adithi (@0x_adithi)",
+  "repository": "https://github.com/adi0x/memory-md",
+  "license": "MIT",
+  "keywords": ["memory", "agent-memory", "experiential-learning", "wisdom", "decisions", "lessons"]
+}
